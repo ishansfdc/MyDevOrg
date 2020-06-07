@@ -1,3 +1,3 @@
 public class test {
-    //[select id from Account ]
+    //[select id from Account ]...
 }
